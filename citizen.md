@@ -8,4 +8,4 @@ const foo = function() {
 
 foo();
 
-While second class citizen is agn entity of which the value can be passed as a parameter, but that can neither be returned from a function, nor can it be assigned to a variable.
+While second class citizen is an entity of which the value can be passed as a parameter, but that can neither be returned from a function, nor can it be assigned to a variable.
